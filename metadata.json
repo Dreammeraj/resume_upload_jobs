@@ -1,0 +1,5 @@
+{
+  "name": "SkillSync Job Matcher",
+  "description": "Upload your resume to automatically extract skills and find perfectly matched job opportunities using AI.",
+  "requestFramePermissions": []
+}
